@@ -4,5 +4,12 @@ $(document).ready(function () {
         play: 5000,
         pagination: false
     });
+    var typed = new Typed(".typed", {
+        strings: ["Software Engineer.", "Web Developer.", "System Support Analyst III."],
+        typeSped: 70,
+        loop: true,
+        startDelay: 1000,
+        showCursor: false
 
+    });
 });
