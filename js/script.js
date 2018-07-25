@@ -6,7 +6,7 @@ $(document).ready(function () {
     });
     var typed = new Typed(".typed", {
         strings: ["Software Engineer.", "Web Developer.", "System Support Analyst III."],
-        typeSped: 70,
+        typeSpeed: 70,
         loop: true,
         startDelay: 1000,
         showCursor: false
