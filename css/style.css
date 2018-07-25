@@ -8,11 +8,11 @@
 
 .slides-navigation .prev {
     left: 20px;
-    background-image: url(../img/Icons/previous.png);
+    background-image: url(../img/Icons/back.png);
 }
 
 
 .slides-navigation .next {
     right: 20px;
-    background-image: url(../img/Icons/nextIcon.png)
+    background-image: url(../img/Icons/next.png)
 }
