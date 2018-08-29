@@ -79,7 +79,7 @@ $(document).ready(function () {
         $(this).addClass("current");
 
         var selector = $(this).attr("data-filter");
-
+        
         $(".items").isotope({
             filter: selector,
             animationOptions: {
